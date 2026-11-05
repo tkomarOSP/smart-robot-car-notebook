@@ -1,6 +1,6 @@
 {
   "package": "model_log_book",
-  "entry_count": 3,
+  "entry_count": 4,
   "entries": [
     {
       "id": "note-0001-0ef7c1e595fa439fad7e8008400ac93b",
@@ -25,6 +25,14 @@
       "title": "## Issue \u2014 SA capabilities do not cover all IR remote configuration commands",
       "tags": [],
       "file_path": "entries/note-0002-65bb0c28e5724e88b137410e8f4fae06.md"
+    },
+    {
+      "id": "obs-0002-a4ac28786f144542b2c2139b529d5532",
+      "type": "observation",
+      "timestamp": "2026-11-05T17:07:07Z",
+      "title": "## Review and Rename Proposal \u2014 IR Remote Capabilities (SA)",
+      "tags": [],
+      "file_path": "entries/obs-0002-a4ac28786f144542b2c2139b529d5532.md"
     }
   ]
 }

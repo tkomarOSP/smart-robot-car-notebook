@@ -37,7 +37,7 @@
     {
       "id": "dec-0001-53bb3ec9a7f042c3a4c26284666ee816",
       "type": "decision",
-      "timestamp": "2026-11-05T17:08:43Z",
+      "timestamp": "2026-11-05T17:16:37Z",
       "title": "## Decision \u2014 Drop `Restore Defaults` from the IR Remote capability set",
       "tags": [],
       "file_path": "entries/dec-0001-53bb3ec9a7f042c3a4c26284666ee816.md"

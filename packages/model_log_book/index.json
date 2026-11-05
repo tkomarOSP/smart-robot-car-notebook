@@ -1,6 +1,6 @@
 {
   "package": "model_log_book",
-  "entry_count": 1,
+  "entry_count": 2,
   "entries": [
     {
       "id": "note-0001-0ef7c1e595fa439fad7e8008400ac93b",
@@ -9,6 +9,14 @@
       "title": "## Model Log Book \u2014 Charter and Entry Conventions",
       "tags": [],
       "file_path": "entries/note-0001-0ef7c1e595fa439fad7e8008400ac93b.md"
+    },
+    {
+      "id": "obs-0001-dbfe221c2cc44f5d929d001e82258dcd",
+      "type": "observation",
+      "timestamp": "2026-11-05T02:20:55Z",
+      "title": "## Review \u2014 Current State of the Smart Robot Car Model (baseline)",
+      "tags": [],
+      "file_path": "entries/obs-0001-dbfe221c2cc44f5d929d001e82258dcd.md"
     }
   ]
 }

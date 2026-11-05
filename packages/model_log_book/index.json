@@ -53,7 +53,7 @@
     {
       "id": "dec-0003-7703f066defb45f3b1a8a3d271d41379",
       "type": "decision",
-      "timestamp": "2026-11-05T17:16:33Z",
+      "timestamp": "2026-11-05T17:18:03Z",
       "title": "## Model Change \u2014 `Restore Defaults` repurposed as `Restore Default Line-Tracking Threshold` (SA)",
       "tags": [],
       "file_path": "entries/dec-0003-7703f066defb45f3b1a8a3d271d41379.md"

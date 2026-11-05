@@ -1,6 +1,6 @@
 {
   "package": "artifacts",
-  "entry_count": 1,
+  "entry_count": 2,
   "entries": [
     {
       "id": "note-0001-c84a26485c184b7bbd5ee03388603152",
@@ -9,6 +9,14 @@
       "title": "## Artifacts \u2014 Charter and Entry Conventions",
       "tags": [],
       "file_path": "entries/note-0001-c84a26485c184b7bbd5ee03388603152.md"
+    },
+    {
+      "id": "note-0002-cbf3614f42d6464e85dbe050f2042a51",
+      "type": "note",
+      "timestamp": "2026-11-05T02:25:42Z",
+      "title": "## IR Remote Controller \u2014 Key Map and Usage (Elegoo manual, page 26)",
+      "tags": [],
+      "file_path": "entries/note-0002-cbf3614f42d6464e85dbe050f2042a51.md"
     }
   ]
 }

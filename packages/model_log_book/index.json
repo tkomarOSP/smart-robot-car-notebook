@@ -1,6 +1,6 @@
 {
   "package": "model_log_book",
-  "entry_count": 4,
+  "entry_count": 5,
   "entries": [
     {
       "id": "note-0001-0ef7c1e595fa439fad7e8008400ac93b",
@@ -33,6 +33,14 @@
       "title": "## Review and Rename Proposal \u2014 IR Remote Capabilities (SA)",
       "tags": [],
       "file_path": "entries/obs-0002-a4ac28786f144542b2c2139b529d5532.md"
+    },
+    {
+      "id": "dec-0001-53bb3ec9a7f042c3a4c26284666ee816",
+      "type": "decision",
+      "timestamp": "2026-11-05T17:08:43Z",
+      "title": "## Decision \u2014 Drop `Restore Defaults` from the IR Remote capability set",
+      "tags": [],
+      "file_path": "entries/dec-0001-53bb3ec9a7f042c3a4c26284666ee816.md"
     }
   ]
 }

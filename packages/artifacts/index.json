@@ -1,0 +1,14 @@
+{
+  "package": "artifacts",
+  "entry_count": 1,
+  "entries": [
+    {
+      "id": "note-0001-c84a26485c184b7bbd5ee03388603152",
+      "type": "note",
+      "timestamp": "2026-11-05T02:17:26Z",
+      "title": "## Artifacts \u2014 Charter and Entry Conventions",
+      "tags": [],
+      "file_path": "entries/note-0001-c84a26485c184b7bbd5ee03388603152.md"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "package": "model_log_book",
+  "entry_count": 1,
+  "entries": [
+    {
+      "id": "note-0001-0ef7c1e595fa439fad7e8008400ac93b",
+      "type": "note",
+      "timestamp": "2026-11-05T02:14:17Z",
+      "title": "## Model Log Book \u2014 Charter and Entry Conventions",
+      "tags": [],
+      "file_path": "entries/note-0001-0ef7c1e595fa439fad7e8008400ac93b.md"
+    }
+  ]
+}

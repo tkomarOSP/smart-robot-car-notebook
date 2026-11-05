@@ -1,6 +1,6 @@
 {
   "package": "model_log_book",
-  "entry_count": 6,
+  "entry_count": 7,
   "entries": [
     {
       "id": "note-0001-0ef7c1e595fa439fad7e8008400ac93b",
@@ -49,6 +49,14 @@
       "title": "## Model Change \u2014 IR Remote capability renames and one new capability (SA)",
       "tags": [],
       "file_path": "entries/dec-0002-8be377c2519c4b149644c98db31ddd49.md"
+    },
+    {
+      "id": "dec-0003-7703f066defb45f3b1a8a3d271d41379",
+      "type": "decision",
+      "timestamp": "2026-11-05T17:16:33Z",
+      "title": "## Model Change \u2014 `Restore Defaults` repurposed as `Restore Default Line-Tracking Threshold` (SA)",
+      "tags": [],
+      "file_path": "entries/dec-0003-7703f066defb45f3b1a8a3d271d41379.md"
     }
   ]
 }

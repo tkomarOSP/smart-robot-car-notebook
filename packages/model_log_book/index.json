@@ -1,6 +1,6 @@
 {
   "package": "model_log_book",
-  "entry_count": 2,
+  "entry_count": 3,
   "entries": [
     {
       "id": "note-0001-0ef7c1e595fa439fad7e8008400ac93b",
@@ -17,6 +17,14 @@
       "title": "## Review \u2014 Current State of the Smart Robot Car Model (baseline)",
       "tags": [],
       "file_path": "entries/obs-0001-dbfe221c2cc44f5d929d001e82258dcd.md"
+    },
+    {
+      "id": "note-0002-65bb0c28e5724e88b137410e8f4fae06",
+      "type": "issue",
+      "timestamp": "2026-11-05T02:25:49Z",
+      "title": "## Issue \u2014 SA capabilities do not cover all IR remote configuration commands",
+      "tags": [],
+      "file_path": "entries/note-0002-65bb0c28e5724e88b137410e8f4fae06.md"
     }
   ]
 }
